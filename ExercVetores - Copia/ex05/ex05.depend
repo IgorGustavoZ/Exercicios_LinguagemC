@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716065743 source:c:\users\v12 informatica\desktop\exercvetores\ex05\vetores.c
+
+1716065581 source:c:\users\v12 informatica\desktop\exercvetores\ex05\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713112397 source:c:\users\v12 informatica\desktop\exerciciosmatioli\ex19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

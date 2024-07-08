@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713481590 source:c:\users\aluno\desktop\exercicio_repeticao\exercicio_repeticao\ex05\main.c
+	<stdio.h>
+	<stdlib.h>
+

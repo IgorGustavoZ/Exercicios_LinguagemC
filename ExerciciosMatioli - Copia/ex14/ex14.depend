@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713110033 source:c:\users\v12 informatica\desktop\exerciciosmatioli\ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

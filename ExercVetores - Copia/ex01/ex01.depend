@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715984619 source:c:\users\aluno\desktop\exercvetores\vetores.c
+
+1715985086 source:c:\users\aluno\desktop\exercvetores\ex01\main.c
+	<stdio.h>
+	<stdlib.h>
+

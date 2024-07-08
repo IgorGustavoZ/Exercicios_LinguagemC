@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712491840 source:c:\users\v12 informatica\desktop\exercicios\exercicios\ex35\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

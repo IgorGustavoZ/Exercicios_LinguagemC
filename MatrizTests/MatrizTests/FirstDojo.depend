@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1717381292 source:c:\aulas\lp\firstdojo\vetores.cpp
+	<iostream>
+
+1717009359 source:c:\aulas\lp\firstdojo\vetroestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717380473 c:\aulas\lp\firstdojo\vetores.h
+
+1717009227 source:c:\aulas\lp\firstdojo\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\unittest++.h
+	"UnitTestPP.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\config.h
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testsuite.h
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\exceptionmacros.h
+	"Config.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\helpermacros.h
+	"Config.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testresults.h
+	"HelperMacros.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\test.h
+	"TestDetails.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\testlist.h
+	"HelperMacros.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1717008197 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1717008196 c:\users\matio\downloads\unittestcpp\unittestcpp\unittest++\reportassert.h
+	"HelperMacros.h"
+
+1717380960 source:c:\aulas\lp\firstdojo\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717452785 source:c:\matioli\lp\dsmn1\firstdojo\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717452786 c:\matioli\lp\dsmn1\firstdojo\vetores.h
+
+1717452786 source:c:\matioli\lp\dsmn1\firstdojo\vetores.cpp
+
+1717452786 source:c:\matioli\lp\dsmn1\firstdojo\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717452785 source:c:\matioli\lp\dsmd1\firstdojo\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717452786 c:\matioli\lp\dsmd1\firstdojo\vetores.h
+
+1717454032 source:c:\matioli\lp\dsmd1\firstdojo\vetores.cpp
+
+1717672370 source:c:\matioli\lp\dsmd1\firstdojo\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717672874 source:c:\matioli\lp\dsmd1\matriztests\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717674768 c:\matioli\lp\dsmd1\matriztests\vetores.h
+
+1717674768 source:c:\matioli\lp\dsmd1\matriztests\vetores.cpp
+	<stdio.h>
+
+1717674740 source:c:\matioli\lp\dsmd1\matriztests\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717798431 source:c:\users\aluno\desktop\matriztests\matriztests\vetores.cpp
+	<stdio.h>
+
+1717798431 source:c:\users\aluno\desktop\matriztests\matriztests\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717798431 c:\users\aluno\desktop\matriztests\matriztests\vetores.h
+
+1717798431 source:c:\users\aluno\desktop\matriztests\matriztests\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717798432 source:c:\users\v12 informatica\desktop\matriztests\matriztests\main.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717798432 c:\users\v12 informatica\desktop\matriztests\matriztests\vetores.h
+
+1717876556 source:c:\users\v12 informatica\desktop\matriztests\matriztests\vetorestest.cpp
+	"UnitTest++.h"
+	"vetores.h"
+
+1717875937 source:c:\users\v12 informatica\desktop\matriztests\matriztests\vetores.cpp
+	<stdio.h>
+
